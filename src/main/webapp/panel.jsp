@@ -15,11 +15,9 @@
             href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
     </head>
     <body>
-        <main class:"container">
-        <h1 style="color:blue">Hola, <%= request.getAttribute("usuarios")%>!!,
-        Bienvenido a proyecto ADSO(:</h1>
-        <h3 style="color:blue">Este es tu panel de usuarios  <%= request.getAttribute("usuarios")%>!!</h3>
-
-    </main>
+        <main class="container">
+        <h1>  Hola, <%= request.getAttribute("usuarios")%>!!,Bienvenido a proyecto ADSO(: </h1> 
+              <h3> <%= request.getAttribute("usuarios")%>,este es tu panel de usuarios.</h3>
+        </main>
 </body>
 </html>
