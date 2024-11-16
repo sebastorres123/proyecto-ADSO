@@ -1,5 +1,8 @@
-
-package com.mycompany.proyectoadso;
+//   Módulos de software codificados y probados GA7-220501096-AA2-EV02
+//   LUIS ALBERTO MEYER SCHEWEIGER
+//   SEBASTIAN TORRES HERRERA
+//   YURANY PAOLA SANDOVAL GOMEZ
+package com.mycompany.proyectoadso;//
 
 import java.io.IOException;
 import java.io.PrintWriter;
